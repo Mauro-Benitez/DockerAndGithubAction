@@ -1,0 +1,14 @@
+E:\FirstImageDocker\bin\Debug\net8.0\FirstImageDocker.exe
+E:\FirstImageDocker\bin\Debug\net8.0\FirstImageDocker.deps.json
+E:\FirstImageDocker\bin\Debug\net8.0\FirstImageDocker.runtimeconfig.json
+E:\FirstImageDocker\bin\Debug\net8.0\FirstImageDocker.dll
+E:\FirstImageDocker\bin\Debug\net8.0\FirstImageDocker.pdb
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.GeneratedMSBuildEditorConfig.editorconfig
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.AssemblyInfoInputs.cache
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.AssemblyInfo.cs
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.csproj.CoreCompileInputs.cache
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.dll
+E:\FirstImageDocker\obj\Debug\net8.0\refint\FirstImageDocker.dll
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.pdb
+E:\FirstImageDocker\obj\Debug\net8.0\FirstImageDocker.genruntimeconfig.cache
+E:\FirstImageDocker\obj\Debug\net8.0\ref\FirstImageDocker.dll
