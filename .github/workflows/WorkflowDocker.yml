@@ -21,5 +21,12 @@ jobs:
         with:       
           username: 'mauropy01'       
           password: ${{ secrets.SECRET }}
-        
+
+      - name: Build and push Docker images 
+        uses: docker/build-push-action@v6.9.0
+        with:
+          context: . 
+          tags: mauropy01/fiap-ghactions:latest
+          push: true
+          
 
